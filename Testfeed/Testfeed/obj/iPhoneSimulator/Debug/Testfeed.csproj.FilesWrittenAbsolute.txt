@@ -1,0 +1,17 @@
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/optimized/
+/Users/jacobholman/Projects/Testfeed/Testfeed/bin/iPhoneSimulator/Debug/Testfeed.exe.mdb
+/Users/jacobholman/Projects/Testfeed/Testfeed/bin/iPhoneSimulator/Debug/Testfeed.exe
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/Testfeed.exe
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/Testfeed.exe.mdb
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/30-view-36.nib
+/Users/jacobholman/Projects/Testfeed/Testfeed/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-30.nib
